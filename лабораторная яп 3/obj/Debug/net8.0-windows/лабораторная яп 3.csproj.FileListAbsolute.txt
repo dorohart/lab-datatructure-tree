@@ -1,0 +1,19 @@
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\bin\Debug\net8.0-windows\лабораторная яп 3.exe
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\bin\Debug\net8.0-windows\лабораторная яп 3.deps.json
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\bin\Debug\net8.0-windows\лабораторная яп 3.runtimeconfig.json
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\bin\Debug\net8.0-windows\лабораторная яп 3.dll
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\bin\Debug\net8.0-windows\лабораторная яп 3.pdb
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная_яп_3.Form1.resources
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная_яп_3.Properties.Resources.resources
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.csproj.GenerateResource.cache
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.AssemblyInfoInputs.cache
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.AssemblyInfo.cs
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.csproj.CoreCompileInputs.cache
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.dll
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\refint\лабораторная яп 3.dll
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.pdb
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная яп 3.genruntimeconfig.cache
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\ref\лабораторная яп 3.dll
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная_яп_3.FormInfo.resources
+C:\Users\Doroh\source\repos\лабораторная яп 3\лабораторная яп 3\obj\Debug\net8.0-windows\лабораторная_яп_3.Create.resources
